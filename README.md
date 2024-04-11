@@ -32,3 +32,5 @@ pip install binance-connector pandas matplotlib seaborn
 
 ## Использование
 
+[Jupyter notebook:](https://github.com/eugenekartvelishvili/funding_rate_income/blob/main/test_fin/funding_rate.ipynb)
+
