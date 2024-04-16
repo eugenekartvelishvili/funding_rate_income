@@ -13,13 +13,13 @@
 ## Технические требования
 Для работы с проектом необходимы следующие компоненты:
 - Python 3.6 или выше
-- Библиотеки: `binance-connector`, `pandas`, `matplotlib`, `seaborn`
+- Библиотеки: `binance-connector`, `pandas`, `matplotlib`, `seaborn`, 'Plotly'
 
 ## Установка зависимостей
 Для установки всех необходимых зависимостей используйте команду:
 
 ```bash
-pip install binance-connector pandas matplotlib seaborn
+pip install binance-connector pandas matplotlib seaborn plotly
 ```
 
 ## Основные шаги работы скрипта
@@ -27,7 +27,7 @@ pip install binance-connector pandas matplotlib seaborn
 * Скрипт начинается с создания клиента для взаимодействия с API Binance Futures.
 
 ### Загрузка данных: 
-* Скрипт загружает исторические данные о ставках финансирования и цене открытия для символа AUCTIONUSDT.
+* Скрипт загружает исторические данные о ставках финансирования и маркировочной цены для символа AUCTIONUSDT.
 
 ### Обработка и анализ данных: 
 * Данные преобразуются в удобный формат с помощью pandas DataFrame, после чего проводится их анализ.
