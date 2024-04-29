@@ -39,7 +39,7 @@ pip install binance-connector pandas matplotlib seaborn plotly
 
 ## Использование по ссылке
 
-[Jupyter notebook](https://github.com/eugenekartvelishvili/funding_rate_income/blob/main/test_fin/funding_rate.ipynb)
+[Jupyter notebook](https://github.com/eugenekartvelishvili/funding_rate_income/blob/main/test_fin/funding_rate_final.ipynb)
 
 ## Ccылка на график PLotly
 
